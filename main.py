@@ -1,5 +1,4 @@
-inputArray = [1, 5, 3, 9, 9]  # Given array
-#TEST
+inputArray = [1, 5, 3, 9, 7]  # Given array
 hour, minute = 0, 0
 
 for i in range(len(inputArray)):
